@@ -1,0 +1,4 @@
+Soy un archivo
+que vamos ha
+leer desde un stream
+niño
